@@ -12,3 +12,8 @@ Name: Insert dollar function
 Description: Insert dollar function to access elements
 Binding: insert_dollar_function
 Interactive: false
+
+Name: Insert DT bracket
+Description: Insert DT bracket function to access elements
+Binding: insert_DTbracket_function
+Interactive: false
