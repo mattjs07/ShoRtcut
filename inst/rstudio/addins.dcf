@@ -1,0 +1,14 @@
+Name: Insert Dashes (---)
+Description: Inserts `---` at the cursor position up to 80 characters.
+Binding: set_new_chapter
+Interactive: false
+
+Name: Insert bracket function
+Description: Insert bracket function to access elements
+Binding: insert_bracket_function
+Interactive: false
+
+Name: Insert dollar function
+Description: Insert dollar function to access elements
+Binding: insert_dollar_function
+Interactive: false
