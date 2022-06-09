@@ -10,6 +10,6 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports: rstudioapi
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.0
 NeedsCompilation: no
 Packaged: 2022-02-11 09:14:18 UTC; mgilbert

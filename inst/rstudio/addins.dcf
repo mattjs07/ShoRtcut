@@ -3,6 +3,11 @@ Description: Inserts `---` at the cursor position up to 80 characters.
 Binding: set_new_chapter
 Interactive: false
 
+Name: Insert neutral delimiter
+Description: Inserts `#---#` at the cursor position.
+Binding: balise_neutre
+Interactive: false
+
 Name: Insert bracket function
 Description: Insert bracket function to access elements
 Binding: insert_bracket_function
